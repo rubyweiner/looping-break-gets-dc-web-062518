@@ -1,7 +1,11 @@
 
 def levitation_quiz
 	puts "What is the spell that enacts levitation?"
-	break
+	spell = gets
+	if gets = "Wingardium Leviosa"
+	  break
+	else
+	  
 end
 
 
