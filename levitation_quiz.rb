@@ -7,6 +7,6 @@ def levitation_quiz
 	    answer == "Wingardium Leviosa"
 	  end
   end
-end
+
 
 
